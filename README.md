@@ -8,9 +8,16 @@ Repository ini berisi implementasi algoritma Midpoint untuk membentuk visualisas
 * **Algoritma Midpoint:** Menggunakan perhitungan integer dari parameter keputusan (*decision parameter*) 8 oktan yang efisien tanpa menggunakan fungsi *floating-point*.
 * **Visualisasi Matplotlib:** Menampilkan plot titik-titik koordinat dalam bentuk grafik 2D berskala presisi (*equal axis*).
 
+## 🖼️ Hasil Visualisasi (Input: X=5, Y=5, R=10)
+
+![Visualisasi Lingkaran Midpoint](<img width="1017" height="754" alt="image" src="https://github.com/user-attachments/assets/c5f023e9-da8b-4419-8093-ee65c136716e" />
+.png)
+
+*Gambar di atas menunjukkan hasil lingkaran dinamis dengan warna titik merah dan latar belakang grid, berpusat di koordinat (5, 5) dan berjari-jari 10.*
+
 ## 🚀 Cara Menjalankan Program
 
-Program ini dapat dijalankan langsung di lokal (VS Code/Terminal) maupun di Google Colab. 
+Program ini dapat dijalankan langsung di lokal (VS Code/Terminal) maupun di Google Colab.
 
 1. Pastikan *library* `matplotlib` sudah terpasang.
 2. Jalankan file `midpoint_lingkaran.py`.
