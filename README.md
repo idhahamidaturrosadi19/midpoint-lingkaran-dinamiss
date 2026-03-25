@@ -10,8 +10,7 @@ Repository ini berisi implementasi algoritma Midpoint untuk membentuk visualisas
 
 ## 🖼️ Hasil Visualisasi (Input: X=5, Y=5, R=10)
 
-![Visualisasi Lingkaran Midpoint](<img width="1017" height="754" alt="image" src="https://github.com/user-attachments/assets/c5f023e9-da8b-4419-8093-ee65c136716e" />
-.png)
+![Visualisasi Lingkaran Midpoint](<img width="833" height="756" alt="image" src="https://github.com/user-attachments/assets/83ea6a01-1364-482c-8c9e-ac73fa8dd914" />)
 
 *Gambar di atas menunjukkan hasil lingkaran dinamis dengan warna titik merah dan latar belakang grid, berpusat di koordinat (5, 5) dan berjari-jari 10.*
 
